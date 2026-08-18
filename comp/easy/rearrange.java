@@ -1,4 +1,3 @@
-package comp.easy;
 
 public class rearrange {
     

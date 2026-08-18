@@ -1,4 +1,3 @@
-package comp.easy;
 import java.util.Scanner;
 
 public class nthFactor {
