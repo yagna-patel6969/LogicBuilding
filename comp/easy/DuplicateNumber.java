@@ -15,7 +15,7 @@ public class DuplicateNumber {
         for(i=0;i<size;i++){
             System.out.println("Enter element-"+(i+1));
             arr[i]=in.nextInt();
-        }
+        } 
 
         for(int j=0;j<size-1;j++){
             for(i=0;i<size-j-1;i++){
